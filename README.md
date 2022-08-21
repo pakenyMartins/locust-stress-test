@@ -7,7 +7,7 @@
 
 Clone Git Repository
 ```bash
-git clone 'https://github.com/pakenyMartins/Desafio-Swonkie-1.git'
+git clone 'https://github.com/pakenyMartins/locust-stress-test.git'
 ```
 
 
